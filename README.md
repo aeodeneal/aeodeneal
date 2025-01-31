@@ -1,10 +1,6 @@
 # Hi there, I'm Alexander! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
-
-Intro sentence **bold text**
 
 - 🌱 Currently practising: Using left/right, full, inner and cross joins, as well as cementing my skills with writing queries. 
 - 🔭 Working on: **Completing my EdD degree.** I have been studying part-time since September 2020, and enjoyed the statistical analysis of my quantitative data (based on six rounds of data collection using a psychometric testing questionnaire) so much that I'm looking to move into data analysis & data science. I have experience using R to calculate descriptive statistics, and conduct hypothesis testing and reliability calculations. 
@@ -22,7 +18,10 @@ The **EdD Quantitative Data Analysis** project includes the raw data collected r
 
 ## Get in Touch 📬
 
-- **[Personal Website & Blog](https://odeneal.blog/)**
 - **[LinkedIn](https://www.linkedin.com/in/alexander-odeneal-a9119ab7/)**
+    _Here you can see my employment experience, as well as the certifications I have completed on DataCamp relating to Python, R and SQL._
+- **[Personal Website & Blog](https://odeneal.blog/)**
+    _On this site you can see some blog posts relating to my experiences whilst in teaching as well as through my doctoral studies. I haven't updated it in a while but I hope it still makes for some interesting reading!_
+
 
 
