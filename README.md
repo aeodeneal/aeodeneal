@@ -22,7 +22,7 @@ The **EdD Quantitative Data Analysis** project includes the raw data collected r
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog](odeneal.blog)**
+- **[Personal Website & Blog](https://odeneal.blog/)**
 - **[LinkedIn](https://www.linkedin.com/in/alexander-odeneal-a9119ab7/)**
 
 
