@@ -12,7 +12,7 @@
 
 The **EdD Quantitative Data Analysis** project includes the raw data collected resulting from the psychometric testing questionnaires completed as part of my EdD, as well as the R code written to complete the analysis. This project demonstrates my ability to calculate **descriptive and inferential statistics**, including measures of central tendency, quantiles, linear regression modeling, measures of correlation, conducting paired t-tests for dependent means, and Stuart-Maxwell tests. You can check out the repository [here](https://github.com/aeodeneal/edd_analysis).
 
-### [SQL Project 3: Database on Sales (including more in-depth queries](https://github.com/aeodeneal/sql3_ticket_sales)
+### [SQL Project 3: Database on Sales (including more in-depth queries)](https://github.com/aeodeneal/sql3_ticket_sales)
 
 This third project, **SQL Project 3: Database on Sales** involves querying multiple tables simultaneously to answer questions relating to ticket sales in several different industries. Like SQL Project 2, I used a DataCamp database and no prompting to work through business questions I wrote following some exploration of the data. This project, unlike previous ones, depends on being able to join several tables to complete some of the queries successfully. This repository is available [here](https://github.com/aeodeneal/sql3_ticket_sales). 
 
