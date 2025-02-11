@@ -12,9 +12,14 @@
 
 The **EdD Quantitative Data Analysis** project includes the raw data collected resulting from the psychometric testing questionnaires completed as part of my EdD, as well as the R code written to complete the analysis. This project demonstrates my ability to calculate **descriptive and inferential statistics**, including measures of central tendency, quantiles, linear regression modeling, measures of correlation, conducting paired t-tests for dependent means, and Stuart-Maxwell tests. You can check out the repository [here](https://github.com/aeodeneal/edd_analysis).
 
-### [SQL Project 2](https://github.com/aeodeneal/sql_project_2)
+### [SQL Project 3: Database on Sales (including more in-depth queries](https://github.com/aeodeneal/sql3_ticket_sales)
 
-**SQL Project 2** is a more developed project I completed using SQL to analyze publicly available data to answer real examples of business questions. Unlike the first SQL project I completed, I started with a raw dataset and came up with the questions myself, and did not have guidance ot support me. You can see this repository [here](https://github.com/aeodeneal/sql_project_2). 
+This third project, **SQL Project 3: Database on Sales** involves querying multiple tables simultaneously to answer questions relating to ticket sales in several different industries. Like SQL Project 2, I used a DataCamp database and no prompting to work through business questions I wrote following some exploration of the data. This project, unlike previous ones, depends on being able to join several tables to complete some of the queries successfully. This repository is available [here](https://github.com/aeodeneal/sql3_ticket_sales). 
+
+
+### [SQL Project 2: International Online Sales](https://github.com/aeodeneal/sql2_international_sales)
+
+**SQL Project 2: International Online Sales** is a more developed project I completed using SQL to analyze publicly available data to answer real examples of business questions. Unlike the first SQL project I completed, I started with a raw dataset and came up with the questions myself, and did not have guidance ot support me. You can see this repository [here](https://github.com/aeodeneal/sql_project_2). 
 
 ### [SQL Project 1](https://github.com/aeodeneal/sql_project_1)
 
